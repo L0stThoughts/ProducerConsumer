@@ -53,6 +53,5 @@ This project demonstrates the classic Producer-Consumer problem using Java. It i
 ### Steps
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/producer-consumer.git
    cd producer-consumer
