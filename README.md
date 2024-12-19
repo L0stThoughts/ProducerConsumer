@@ -50,8 +50,8 @@ This project demonstrates the classic Producer-Consumer problem using Java. It i
 - JDK 8 or higher.
 - Maven (for dependency management, if needed).
 
-### Steps
+### Repository cloning
 
-1. Clone the repository:
-   git clone https://github.com/yourusername/producer-consumer.git
-   cd producer-consumer
+   Repository:
+   git clone https://github.com/L0stThoughts/ProducerConsumer.git
+
